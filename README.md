@@ -52,7 +52,7 @@
   <tr>
     <td>
       <a href="https://github.com/agbleze/review_predictor">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=agbleze&repo=review_predictor&theme=rose_pine" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=agbleze&repo=review_predictor&theme=tokyonight" />
       </a>
     </td>
     
