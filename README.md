@@ -2,7 +2,6 @@
 
 
 ### Applied and Research Artificial Intelligence       |        MLOPS         |         Data Science
-![MLOPS ](https://img.shields.io/badge/MLOPS)
 
 I interest spans both Research and Application of Artificial Intelligence and Data Science principles to develop intelligent products, features and services.
 
