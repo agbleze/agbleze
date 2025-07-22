@@ -1,5 +1,7 @@
 ## About me 👋
 
+### Applied and Research Artificial Intelligence   |    MLOPS     |       Data Science
+
 I interest spans both Research and Application of Artificial Intelligence and Data Science principles to develop intelligent products, features and services.
 
 <a href="https://github.com/agbleze/review_predictor">
