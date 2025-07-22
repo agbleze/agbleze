@@ -1,4 +1,5 @@
-## About me 👋
+![Static Badge](https://img.shields.io/badge/MLOPS-Scalable%20Reliable%20ML%20Pipelines-blue?style=for-the-badge&color=cream)
+
 
 ### Applied and Research Artificial Intelligence       |        MLOPS         |         Data Science
 ![MLOPS ](https://img.shields.io/badge/MLOPS)
