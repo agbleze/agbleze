@@ -1,4 +1,6 @@
-## Hi there 👋
+## About me 👋
+
+I interest spans both Research and Application of Artificial Intelligence and Data Science principles to develop intelligent products, features and services
 
 <!--
 **agbleze/agbleze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
