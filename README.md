@@ -6,7 +6,7 @@
 
 
 
-### Leverages Research and Application of Artificial Intelligence and Data Science principles and techniques to develop intelligent products, features and services. Focus on productionizing applications and optimized infrastructure development that powers scalable and reliable deployments for particularly pain burden scenarios
+#### Leverages Research and Application of Artificial Intelligence and Data Science principles and techniques to develop intelligent products, features and services. Focus on productionizing applications and optimized infrastructure development that powers scalable and reliable deployments for particularly pain burden scenarios
 
 <a href="https://github.com/agbleze/review_predictor">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=agbleze&repo=review_predictor&theme=rose_pine" />
