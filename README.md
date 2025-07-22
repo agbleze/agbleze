@@ -39,6 +39,19 @@
       </a>
     </td>
   </tr>
+
+  <tr>
+    <td>
+      <a href="https://github.com/agbleze/recommendation_predictor_API">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=agbleze&repo=recommendation_predictor_API&theme=tokyonight" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/agbleze/booking_days_predictor_api">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=agbleze&repo=booking_days_predictor_api&theme=tokyonight" />
+      </a>
+    </td>
+  </tr>
 </table>
 
 
