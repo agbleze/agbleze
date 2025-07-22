@@ -1,4 +1,5 @@
 ![Static Badge](https://img.shields.io/badge/MLOPS-Scalable%20Reliable%20ML%20Pipelines-blue?style=for-the-badge&color=cream)
+![Static Badge](https://img.shields.io/badge/AAI-Applied%20Artificial%20Intelligence-blue?style=for-the-badge&labelColor=%23D9CD2B&color=%232AA332)
 
 
 ### Applied and Research Artificial Intelligence       |        MLOPS         |         Data Science
