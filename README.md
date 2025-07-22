@@ -8,6 +8,12 @@
 Leverages Research and Application of Artificial Intelligence and Data Science principles and techniques to develop intelligent products, features and services. Focus on productionizing applications and optimized infrastructure development that powers scalable and reliable deployments for particularly pain burden scenarios
 
 
+I develop intelligent products and services by combining deep AI research with real-world application. My focus is on:
+- ⚙️ Productionizing machine learning pipelines
+- 🏗️ Designing scalable infrastructure
+- 🩹 Tackling high-friction, pain-burdened deployment scenarios
+
+
 ## 🚀 Featured Projects
 
 <table>
