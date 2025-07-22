@@ -5,12 +5,41 @@
 ![Static Badge](https://img.shields.io/badge/GeoAI-Geospatial%20Intelligence%20Application-blue?style=for-the-badge&logoColor=%23DE5050&labelColor=%23DE5050&color=%23960C64)
 
 
-
 ##### Leverages Research and Application of Artificial Intelligence and Data Science principles and techniques to develop intelligent products, features and services. Focus on productionizing applications and optimized infrastructure development that powers scalable and reliable deployments for particularly pain burden scenarios
 
 <a href="https://github.com/agbleze/review_predictor">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=agbleze&repo=review_predictor&theme=rose_pine" />
 </a>
+
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/agbleze/emission_api">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=agbleze&repo=emission_api&theme=tokyonight" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/agbleze/review_classifier">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=agbleze&repo=review_classifier&theme=tokyonight" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/agbleze/AutoML_application">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=agbleze&repo=AutoML_application&theme=tokyonight" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/agbleze/submission_prediction_dashapp">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=agbleze&repo=submission_prediction_dashapp&theme=tokyonight" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 <!--
