@@ -1,7 +1,8 @@
 ## About me 👋
 
 ### Applied and Research Artificial Intelligence       |        MLOPS         |         Data Science
-![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue)
+![MLOPS ](https://img.shields.io/badge/MLOPS 
+
 I interest spans both Research and Application of Artificial Intelligence and Data Science principles to develop intelligent products, features and services.
 
 <a href="https://github.com/agbleze/review_predictor">
