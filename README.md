@@ -1,4 +1,4 @@
-![Static Badge](https://img.shields.io/badge/MLOPS-Scalable%20Reliable%20ML%20Pipelines-blue?style=for-the-badge&color=cream)
+![Static Badge](https://img.shields.io/badge/MLOPS-Machine%20Learning%20Operations-blue?style=for-the-badge&logoColor=%23DE5050&labelColor=%230F594D&color=%2305202E)
 ![Static Badge](https://img.shields.io/badge/AAI-Applied%20Artificial%20Intelligence-blue?style=for-the-badge&labelColor=%23D9CD2B&color=%232AA332)
 ![Static Badge](https://img.shields.io/badge/AIR-Artificial%20Intelligence%20Research-blue?style=for-the-badge&logoColor=%231595A1&labelColor=%23209E9E&color=%231D33C2)
 ![Static Badge](https://img.shields.io/badge/DS-Data%20Science-blue?style=for-the-badge&logoColor=%231595A1&labelColor=%2359542D&color=%238F4A11)
