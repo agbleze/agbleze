@@ -1,6 +1,6 @@
 ## About me 👋
 
-### Applied and Research Artificial Intelligence   |    MLOPS     |       Data Science
+### Applied and Research Artificial Intelligence       |        MLOPS         |         Data Science
 
 I interest spans both Research and Application of Artificial Intelligence and Data Science principles to develop intelligent products, features and services.
 
