@@ -5,10 +5,7 @@
 ![Static Badge](https://img.shields.io/badge/GeoAI-Geospatial%20Intelligence%20Application-blue?style=for-the-badge&logoColor=%23DE5050&labelColor=%23DE5050&color=%2354574D)
 
 
-
-### Applied and Research Artificial Intelligence       |        MLOPS         |         Data Science
-
-I interest spans both Research and Application of Artificial Intelligence and Data Science principles to develop intelligent products, features and services.
+### Leverages Research and Application of Artificial Intelligence and Data Science principles to develop intelligent products, features and services.
 
 <a href="https://github.com/agbleze/review_predictor">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=agbleze&repo=review_predictor&theme=rose_pine" />
