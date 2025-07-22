@@ -2,7 +2,8 @@
 ![Static Badge](https://img.shields.io/badge/AAI-Applied%20Artificial%20Intelligence-blue?style=for-the-badge&labelColor=%23D9CD2B&color=%232AA332)
 ![Static Badge](https://img.shields.io/badge/AIR-Artificial%20Intelligence%20Research-blue?style=for-the-badge&logoColor=%231595A1&labelColor=%23209E9E&color=%231D33C2)
 ![Static Badge](https://img.shields.io/badge/DS-Data%20Science-blue?style=for-the-badge&logoColor=%231595A1&labelColor=%2359542D&color=%238F4A11)
-![Static Badge](https://img.shields.io/badge/GeoAI-Geospatial%20Intelligence%20Application-blue?style=for-the-badge&logoColor=%23DE5050&labelColor=%23DE5050&color=%2354574D)
+![Static Badge](https://img.shields.io/badge/GeoAI-Geospatial%20Intelligence%20Application-blue?style=for-the-badge&logoColor=%23DE5050&labelColor=%23DE5050&color=%23960C64)
+
 
 
 ### Leverages Research and Application of Artificial Intelligence and Data Science principles to develop intelligent products, features and services.
