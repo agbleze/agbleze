@@ -1,6 +1,11 @@
 ## About me 👋
 
-I interest spans both Research and Application of Artificial Intelligence and Data Science principles to develop intelligent products, features and services
+I interest spans both Research and Application of Artificial Intelligence and Data Science principles to develop intelligent products, features and services.
+
+<a href="https://github.com/agbleze/review_predictor">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=agbleze&repo=review_predictor&theme=default" />
+</a>
+
 
 <!--
 **agbleze/agbleze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
