@@ -5,13 +5,12 @@
 ![Static Badge](https://img.shields.io/badge/GeoAI-Geospatial%20Intelligence%20Application-blue?style=for-the-badge&logoColor=%23DE5050&labelColor=%23DE5050&color=%23960C64)
 
 
-Leverages Research and Application of Artificial Intelligence and Data Science principles and techniques to develop intelligent products, features and services. Focus on productionizing applications and optimized infrastructure development that powers scalable and reliable deployments for particularly pain burden scenarios
+Leverages Research and Application of Artificial Intelligence and Data Science principles and techniques to develop intelligent products, features and services. Focuses on productionizing machine learning applications and building optimized infrastructure for scalable, reliable deployments — especially in high-friction, pain-burdened scenarios.
 
-
-I develop intelligent products and services by combining deep AI research with real-world application. My focus is on:
-- ⚙️ Productionizing machine learning pipelines
-- 🏗️ Designing scalable infrastructure
-- 🩹 Tackling high-friction, pain-burdened deployment scenarios
+Interests
+- ⚙️ Captalizing new AI discoveries as better solutions and framework to understand previously obscured GeoAI challenges
+- 🏗️ Developing new tools and powering existing ones
+- 🩹 Purely Evolutionary and experimental works that are least explored (Hall of Fail)
 
 
 ## 🚀 Featured Projects
