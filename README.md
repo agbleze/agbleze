@@ -71,7 +71,7 @@ Leverages Research and Application of Artificial Intelligence and Data Science p
 ## ![Hall of Fail](https://img.shields.io/badge/Hall_of_Fail-active-critical?style=flat-square&color=ff69b4)
 
 This is where my half-baked ideas, dirty notebooks, and unapologetically spaghettified code live in peace! I love them for who they are. Guess what? They work, don't torch them!
-I've more skeletons in my cupboard but these managed honourable mention here 😄
+I've got more skeletons in my cupboard but these managed honourable mention here 😄
 
 <table>
   <tr>
