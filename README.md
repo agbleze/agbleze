@@ -67,6 +67,55 @@ Leverages Research and Application of Artificial Intelligence and Data Science p
 </table>
 
 
+
+## ![Hall of Fail](https://img.shields.io/badge/Hall_of_Fail-active-critical?style=flat-square&color=ff69b4)
+
+This is where my half-baked ideas, dirty notebooks, and unapologetically spaghettified code live in peace! I love them for who they are. Guess what? They work, don't torch them!
+I've more skeletons in my cupboard but these managed honourable mention here 😄
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/agbleze/Carbon_Analytics">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=agbleze&repo=Carbon_Analytics&theme=tokyonight" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/agbleze/GIS-Ecosystem-service-shiny-app">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=agbleze&repo=GIS-Ecosystem-service-shiny-app&theme=tokyonight" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/agbleze/Google_Analytics_timeseries">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=agbleze&repo=Google_Analytics_timeseries&theme=tokyonight" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/agbleze/text-mining">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=agbleze&repo=text-mining&theme=tokyonight" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/agbleze/churn_prediction">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=agbleze&repo=churn_prediction&theme=tokyonight" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/agbleze/recommender_systems">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=agbleze&repo=recommender_systems&theme=tokyonight" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/agbleze/Data-visualization-with-R">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=agbleze&repo=Data-visualization-with-R&theme=tokyonight" />
+      </a>
+    </td>
+  </tr>
+
+</table>
+
 <!--
 **agbleze/agbleze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
