@@ -86,8 +86,13 @@ I've more skeletons in my cupboard but these managed honourable mention here ðŸ˜
       </a>
     </td>
     <td>
-      <a href="https://github.com/agbleze/Google_Analytics_timeseries">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=agbleze&repo=Google_Analytics_timeseries&theme=tokyonight" />
+      <a href="https://github.com/agbleze/Academic-repo">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=agbleze&repo=Academic-repo&theme=tokyonight" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/agbleze/Google_Analytics_time_series">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=agbleze&repo=Google_Analytics_time_series&theme=tokyonight" />
       </a>
     </td>
   </tr>
