@@ -7,7 +7,8 @@
 
 Leverages Research and Application of Artificial Intelligence and Data Science principles and techniques to develop intelligent products, features and services. Focuses on productionizing machine learning applications and building optimized infrastructure for scalable, reliable deployments — especially in high-friction, pain-burdened scenarios.
 
-Interests
+
+- Interests
 - ⚙️ Capitalizing on emerging AI breakthroughs to develop novel frameworks that uncover and address previously obscured GeoAI challenges
 - 🏗️ Architecting new tools and enhancing existing platforms for real-world implementation
 - 🩹 Pursuing evolutionary and experimental projects in unexplored domains — "Hall of Fail" where my dirty notebooks and spaghetti code reside
