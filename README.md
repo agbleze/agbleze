@@ -81,8 +81,8 @@ I've more skeletons in my cupboard but these managed honourable mention here ðŸ˜
       </a>
     </td>
     <td>
-      <a href="https://github.com/agbleze/GIS-Ecosystem-service-shiny-app">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=agbleze&repo=GIS-Ecosystem-service-shiny-app&theme=tokyonight" />
+      <a href="https://github.com/agbleze/GIS-Ecosystem-services-shiny-app">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=agbleze&repo=GIS-Ecosystem-services-shiny-app&theme=tokyonight" />
       </a>
     </td>
     <td>
