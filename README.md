@@ -62,13 +62,11 @@ Leverages Research and Application of Artificial Intelligence and Data Science p
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=agbleze&repo=review_predictor&theme=tokyonight" />
       </a>
     </td>
-
     <td>
       <a href="https://github.com/agbleze/cpauger">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=agbleze&repo=cpauger&theme=tokyonight" />
       </a>
-    </td>
-    
+    </td>    
   </tr>
 </table>
 
