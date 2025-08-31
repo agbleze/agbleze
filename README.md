@@ -72,7 +72,7 @@ Leverages Research and Application of Artificial Intelligence and Data Science p
   <tr>
     <td>
       <a href="https://github.com/agbleze/objectscope">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=agbleze&repo=review_predictor&theme=tokyonight" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=agbleze&repo=objectscope&theme=tokyonight" />
       </a>
     </td>
     <!-- <td>
