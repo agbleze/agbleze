@@ -68,6 +68,19 @@ Leverages Research and Application of Artificial Intelligence and Data Science p
       </a>
     </td>    
   </tr>
+
+  <tr>
+    <td>
+      <a href="https://github.com/agbleze/objectscope">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=agbleze&repo=review_predictor&theme=tokyonight" />
+      </a>
+    </td>
+    <!-- <td>
+      <a href="https://github.com/agbleze/cpauger">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=agbleze&repo=cpauger&theme=tokyonight" />
+      </a>
+    </td>     -->
+  </tr>
 </table>
 
 
